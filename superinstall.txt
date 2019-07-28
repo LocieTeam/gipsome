@@ -1,0 +1,7 @@
+postgis and postgis_topology extension to database
+
+sudo apt-get install libgeos-dev --> GEOS
+sudo apt-get install binutils libproj-dev --> PROJ.4
+sudo apt-get install gdal-bin libgdal-dev --> GDAL
+sudo apt-get install python3-gdal
+pip install psycopg2-binary --> psycopg2 for psotgis
